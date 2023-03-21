@@ -11,8 +11,8 @@ In this project i first made a game using pygame and then implemented an AI for 
 - 2 player mode
 - Player VS Computer Mode
 - Reset button
-
-
+-toggle button between Modes
+player can switch between modes at anytime using the mode button
 
 ## Screenshots
 ![2 player mode](https://user-images.githubusercontent.com/91721462/226533927-50e997d4-1aa6-497c-bb8a-1e3ba2b51c20.png)
